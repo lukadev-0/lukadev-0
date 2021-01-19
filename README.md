@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1>
+LukaGamingDev
+</h1>
 
-<!--
-**LukaGamingDev/lukagamingdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/LukaGamingDev?s=40&v=4" height="125" align="right" />
 
-Here are some ideas to get you started:
+<div align="left">
+<p>
+Hello! 👋
+</p>
+<p>
+I'm a full stack web developer. I like to use <a href="https://reactjs.org/">React</a> for the front-end,<br> and <a href="https://nodejs.org/">NodeJS</a> at the back-end.
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+<div>
+<details>
+<summary>Show Stats</summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LukaGamingDev" width=a"500" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaGamingDev" width="500" />
+</div>
+</details>
+</div>
+
+## Packages
+
+<a href="https://nodei.co/npm/discord-interactions-server/"><img src="https://nodei.co/npm/discord-interactions-server.png" alt="npm installnfo" /></a>
+
+## Discord
+
+Check out my <a href="https://discord.gg/vqA9z8K6HE">Discord Server</a>
