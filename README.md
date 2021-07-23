@@ -2,7 +2,7 @@
 LukaGamingDev
 </h1>
 
-<img src="https://avatars.githubusercontent.com/LukaGamingDev?s=40&v=4" height="125" align="right" />
+<img src="https://avatars.githubusercontent.com/lukadev-0?s=40&v=4" height="125" align="right" />
 
 <div align="left">
 <p>
@@ -19,19 +19,15 @@ I'm a full stack web developer. I like to use <a href="https://reactjs.org/">Rea
 <details>
 <summary>Show Stats</summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukaGamingDev" width=a"500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukadev-0" width=a"500" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaGamingDev" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev-0" width="500" />
 </div>
 </details>
 </div>
 
-## Packages
-
-<a href="https://nodei.co/npm/discord-interactions-server/"><img src="https://nodei.co/npm/discord-interactions-server.png" alt="npm installnfo" /></a>
-
 ## Discord
 
-Check out my <a href="https://discord.gg/vqA9z8K6HE">Discord Server</a>
+Check out my <a href="https://discord.gg/NfGBf9TSeS">Discord Server</a>
