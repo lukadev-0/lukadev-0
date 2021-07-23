@@ -1,5 +1,5 @@
 <h1>
-LukaGamingDev
+LukaDev
 </h1>
 
 <img src="https://avatars.githubusercontent.com/lukadev-0?s=40&v=4" height="125" align="right" />
