@@ -2,7 +2,7 @@
 LukaDev
 </h1>
 
-<img src="https://avatars.githubusercontent.com/lukadev-0?s=512&v=4" height="125" align="right" />
+<img src="https://avatars.githubusercontent.com/lukadev-0?s=1024&v=4" height="125" align="right" />
 
 <div align="left">
 <p>
