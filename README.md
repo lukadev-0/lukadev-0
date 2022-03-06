@@ -1,33 +1,20 @@
-<h1>
-LukaDev
-</h1>
-
-<img src="https://avatars.githubusercontent.com/lukadev-0?s=1024&v=4" height="125" align="right" />
-
-<div align="left">
-<p>
-Hello! 👋
-</p>
-<p>
-I'm a full stack web developer. I like to use <a href="https://reactjs.org/">React</a> for the front-end,<br> and <a href="https://nodejs.org/">NodeJS</a> at the back-end.
-</p>
-</div>
-
-## Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lukadev-0/lukadev-0/main/Social%20Media%20Banner.png">
+ </div>
 
 <div>
-<details>
-<summary>Show Stats</summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukadev-0" width=a"500" />
+<h1 align="center">Hey 👋, I'm LukaDev</h1>
 </div>
+
+<p align="center">
+I'm a full stack web and Roblox developer based in Belgium.
+</p>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukadev-0" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lukadev-0&show_icons=true&theme=github_dark&border_radius=10" />
 </div>
-</details>
+<div  align="center">
+<a href="https://www.buymeacoffee.com/lukadev" target="_blank"><img src="https://raw.githubusercontent.com/lukadev-0/lukadev-0/main/buy-coffee.png" alt="Buy Me A Coffee"  ></a>
 </div>
-
-## Discord
-
-Check out my <a href="https://discord.gg/NfGBf9TSeS">Discord Server</a>
