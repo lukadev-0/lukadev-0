@@ -1,5 +1,10 @@
 ![banner](banner.svg)
 
-# Hey! I'm LukaDev
+# hi, i'm luka.
 
-I'm a Full-Stack Web Developer and Roblox Scripter based in Belgium.
+i build things on the web and Roblox
+
+[my website](https://lukadev.me/)
+
+twitter/x: [@lukadev_0](https://twitter.com/lukadev_0)
+mastodon: [@lukadev@fosstodon.org](https://fosstodon.org/@lukadev)
